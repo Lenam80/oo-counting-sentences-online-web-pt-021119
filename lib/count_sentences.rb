@@ -11,7 +11,7 @@ class String
   end
 
   def exclamation?
-
+    "What's your name?".end_with(!)
   end
 
   def count_sentences
