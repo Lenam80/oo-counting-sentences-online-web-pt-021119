@@ -3,11 +3,11 @@ require 'pry'
 class String
 
   def sentence?
-    "Hi, My name is Sophie" .end_with.
+    "Hi, My name is Sophie".end_with.
   end
 
   def question?
-    "Hi, My name is Sophie" .end_with(?)
+    "Hi, My name is Sophie".end_with(?)
   end
 
   def exclamation?
