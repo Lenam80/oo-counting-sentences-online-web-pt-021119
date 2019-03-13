@@ -5,8 +5,7 @@ class String
   def sentence?
     "Hi, My name is Sophie".end_with.
   end
-
-  def question?
+def sentence?
     "Hi, My name is Sophie".end_with
   end
 
