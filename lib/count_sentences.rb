@@ -21,4 +21,3 @@ class String
   def count_sentences
     "one, two, three?".count_sentences
   end
-end
