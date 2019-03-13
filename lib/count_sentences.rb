@@ -7,7 +7,7 @@ class String
   end
 
   def question?
-    "Hi, My name is Sophie".end_with(?)
+    "Hi, My name is Sophie".end_with
   end
 
   def exclamation?
